@@ -1,0 +1,7 @@
+{
+  "name": "Node.js Sample",
+  "description": "A barebones Node.js app using Express 4 for openshift",
+  "repository": "https://github.com/khannaraj/nodejshelloworld",
+  "logo": "",
+  "keywords": ["openshift", "node", "express", "static"]
+}
